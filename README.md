@@ -1,2 +1,4 @@
 # lua-fsm
-finite state machine that i made for myself
+
+Finite state machine for personal use
+Insert 'State' and 'Group' inside the main FSM module
